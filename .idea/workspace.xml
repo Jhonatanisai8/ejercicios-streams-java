@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Concatenar todas las palabras de una lista en una sola cadena separada por espacios.">
-      <change beforePath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio05ContarCaracter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio05ContarCaracter.java" afterDir="false" />
-    </list>
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Contar el número total de caracteres en una lista de cadenas." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +38,7 @@
     "Application.Ejercicio03EncontrarProducto.executor": "Run",
     "Application.Ejercicio04ConcatenarPalabras.executor": "Run",
     "Application.Ejercicio05ContarCaracter.executor": "Run",
+    "Application.Ejercicio06NumeroMinimo.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -48,20 +47,7 @@
     "onboarding.tips.debug.path": "C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio05ContarCaracter">
-    <configuration name="Ejercicio01SumarLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio01SumarLista" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio06NumeroMinimo">
     <configuration name="Ejercicio02NumeroMayor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio02NumeroMayor" />
       <module name="ejercicios-streams01" />
@@ -114,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio06NumeroMinimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio06NumeroMinimo" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio06NumeroMinimo" />
         <item itemvalue="Application.Ejercicio05ContarCaracter" />
         <item itemvalue="Application.Ejercicio04ConcatenarPalabras" />
         <item itemvalue="Application.Ejercicio03EncontrarProducto" />
         <item itemvalue="Application.Ejercicio02NumeroMayor" />
-        <item itemvalue="Application.Ejercicio01SumarLista" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735162999312</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Contar el número total de caracteres en una lista de cadenas.">
+      <option name="closed" value="true" />
+      <created>1735163394510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735163394510</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,6 +189,7 @@
     <MESSAGE value="Encontrar el número máximo de una lista de enteros." />
     <MESSAGE value="Calcular el producto de todos los elementos en una lista de números." />
     <MESSAGE value="Concatenar todas las palabras de una lista en una sola cadena separada por espacios." />
-    <option name="LAST_COMMIT_MESSAGE" value="Concatenar todas las palabras de una lista en una sola cadena separada por espacios." />
+    <MESSAGE value="Contar el número total de caracteres en una lista de cadenas." />
+    <option name="LAST_COMMIT_MESSAGE" value="Contar el número total de caracteres en una lista de cadenas." />
   </component>
 </project>
