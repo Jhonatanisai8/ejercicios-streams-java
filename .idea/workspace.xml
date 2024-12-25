@@ -49,20 +49,7 @@
     "onboarding.tips.debug.path": "C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio08NumerosPositivos">
-    <configuration name="Ejercicio04ConcatenarPalabras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio04ConcatenarPalabras" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio09FiltrarSumarNumeros">
     <configuration name="Ejercicio05ContarCaracter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio05ContarCaracter" />
       <module name="ejercicios-streams01" />
@@ -115,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio09FiltrarSumarNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio09FiltrarSumarNumeros" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio09FiltrarSumarNumeros" />
         <item itemvalue="Application.Ejercicio08NumerosPositivos" />
         <item itemvalue="Application.Ejercicio07PromedioLista" />
         <item itemvalue="Application.Ejercicio06NumeroMinimo" />
         <item itemvalue="Application.Ejercicio05ContarCaracter" />
-        <item itemvalue="Application.Ejercicio04ConcatenarPalabras" />
       </list>
     </recent_temporary>
   </component>
