@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Filtrar y sumar los números pares de una lista.">
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Contar cuántas personas tienen un nombre que comienza con 'A':">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,23 +51,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/com/jhonatan/ejerccios/reduccion",
     "onboarding.tips.debug.path": "C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicios11ContarPersonas">
-    <configuration name="Ejercicio07PromedioLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio07PromedioLista" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Music\PROGRAMACION FUNCIONAL\ejercicios-streams01\src\com\jhonatan\ejerccios\reduccion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio12AgruparPersonas">
     <configuration name="Ejercicio08NumerosPositivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio08NumerosPositivos" />
       <module name="ejercicios-streams01" />
@@ -107,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio12AgruparPersonas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio12AgruparPersonas" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ejercicios11ContarPersonas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicios11ContarPersonas" />
       <module name="ejercicios-streams01" />
@@ -122,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio12AgruparPersonas" />
         <item itemvalue="Application.Ejercicios11ContarPersonas" />
         <item itemvalue="Application.Ejercicio10SeparaNumerosComas" />
         <item itemvalue="Application.Ejercicio09FiltrarSumarNumeros" />
         <item itemvalue="Application.Ejercicio08NumerosPositivos" />
-        <item itemvalue="Application.Ejercicio07PromedioLista" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735165502408</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Contar cuántas personas tienen un nombre que comienza con 'A':">
+      <option name="closed" value="true" />
+      <created>1735243371420</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735243371420</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +247,7 @@
     <MESSAGE value="Obtener el promedio de una lista de números enteros utilizando reducción." />
     <MESSAGE value="Determinar si todos los números de una lista son positivos utilizando reducción." />
     <MESSAGE value="Filtrar y sumar los números pares de una lista." />
-    <option name="LAST_COMMIT_MESSAGE" value="Filtrar y sumar los números pares de una lista." />
+    <MESSAGE value="Contar cuántas personas tienen un nombre que comienza con 'A':" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contar cuántas personas tienen un nombre que comienza con 'A':" />
   </component>
 </project>

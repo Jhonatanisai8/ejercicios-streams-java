@@ -3,11 +3,11 @@ package com.jhonatan.ejerccios.reduccion;
 import java.util.ArrayList;
 import java.util.List;
 
-class Persona {
+class Persona01 {
     private String nombre;
     private int edad;
 
-    public Persona(String nombre, int edad) {
+    public Persona01(String nombre, int edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
@@ -36,15 +36,15 @@ Dada una lista de objetos Persona, cuenta cuántas personas tienen
 un nombre que comienza con la letra 'A'.
      */
     public static void main(String[] args) {
-        Persona jhonatan = new Persona("Jhonatan", 18);
-        Persona juan = new Persona("Juan", 13);
-        Persona walter = new Persona("Walter", 34);
+        Persona01 jhonatan = new Persona01("Jhonatan", 18);
+        Persona01 juan = new Persona01("Juan", 13);
+        Persona01 walter = new Persona01("Walter", 34);
 
-        Persona alberto = new Persona("Alberto", 12);
-        Persona alvaro = new Persona("Alvaro", 12);
+        Persona01 alberto = new Persona01("Alberto", 12);
+        Persona01 alvaro = new Persona01("Alvaro", 12);
 
         //lista
-        List<Persona> listaPersonas = new ArrayList<>();
+        List<Persona01> listaPersonas = new ArrayList<>();
         listaPersonas.add(jhonatan);
         listaPersonas.add(juan);
         listaPersonas.add(walter);
