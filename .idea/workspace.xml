@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Filtrar y sumar los números pares de una lista.">
-      <change beforePath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio10SeparaNumerosComas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio10SeparaNumerosComas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2qj2job5Xm8G60GspgYAtnpv0D0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -45,6 +45,7 @@
     "Application.Ejercicio08NumerosPositivos.executor": "Run",
     "Application.Ejercicio09FiltrarSumarNumeros.executor": "Run",
     "Application.Ejercicio10SeparaNumerosComas.executor": "Run",
+    "Application.Ejercicios11ContarPersonas.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,20 +54,7 @@
     "onboarding.tips.debug.path": "C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio10SeparaNumerosComas">
-    <configuration name="Ejercicio06NumeroMinimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio06NumeroMinimo" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicios11ContarPersonas">
     <configuration name="Ejercicio07PromedioLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio07PromedioLista" />
       <module name="ejercicios-streams01" />
@@ -119,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicios11ContarPersonas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicios11ContarPersonas" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicios11ContarPersonas" />
         <item itemvalue="Application.Ejercicio10SeparaNumerosComas" />
         <item itemvalue="Application.Ejercicio09FiltrarSumarNumeros" />
         <item itemvalue="Application.Ejercicio08NumerosPositivos" />
         <item itemvalue="Application.Ejercicio07PromedioLista" />
-        <item itemvalue="Application.Ejercicio06NumeroMinimo" />
       </list>
     </recent_temporary>
   </component>
