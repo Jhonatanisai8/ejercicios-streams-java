@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Determinar el número más cercano a un valor objetivo.">
-      <change beforePath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio18PalabraMasLarga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio18PalabraMasLarga.java" afterDir="false" />
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Encontrar la palabra más larga en una lista.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,8 @@
     "Application.Ejercicio15CalcularFactorialNumero.executor": "Run",
     "Application.Ejercicio16ContarPalabrasLista.executor": "Run",
     "Application.Ejercicio17ValorMasCercano.executor": "Run",
+    "Application.Ejercicio18PalabraMasLarga.executor": "Run",
+    "Application.Ejercicio19SumarCuadrados.executor": "Run",
     "Application.EjercicioContarVocales.executor": "Run",
     "Application.Ejercicios11ContarPersonas.executor": "Run",
     "Application.Main.executor": "Run",
@@ -67,7 +69,7 @@
       <recent name="C:\Users\User\Music\PROGRAMACION FUNCIONAL\ejercicios-streams01\src\com\jhonatan\ejerccios\reduccion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio18PalabraMasLarga">
+  <component name="RunManager" selected="Application.Ejercicio19SumarCuadrados">
     <configuration name="Ejercicio15CalcularFactorialNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio15CalcularFactorialNumero" />
       <module name="ejercicios-streams01" />
@@ -120,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjercicioContarVocales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.EjercicioContarVocales" />
+    <configuration name="Ejercicio19SumarCuadrados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio19SumarCuadrados" />
       <module name="ejercicios-streams01" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio19SumarCuadrados" />
         <item itemvalue="Application.Ejercicio18PalabraMasLarga" />
         <item itemvalue="Application.Ejercicio17ValorMasCercano" />
         <item itemvalue="Application.Ejercicio16ContarPalabrasLista" />
         <item itemvalue="Application.Ejercicio15CalcularFactorialNumero" />
-        <item itemvalue="Application.EjercicioContarVocales" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735323031016</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Encontrar la palabra más larga en una lista.">
+      <option name="closed" value="true" />
+      <created>1735323251692</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735323251692</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,6 +336,7 @@
     <MESSAGE value="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial." />
     <MESSAGE value="Contar el número total de palabras en una lista de frases." />
     <MESSAGE value="Determinar el número más cercano a un valor objetivo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Determinar el número más cercano a un valor objetivo." />
+    <MESSAGE value="Encontrar la palabra más larga en una lista." />
+    <option name="LAST_COMMIT_MESSAGE" value="Encontrar la palabra más larga en una lista." />
   </component>
 </project>
