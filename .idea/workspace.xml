@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Contar la cantidad de vocales en todas las palabras" />
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,51 +31,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ejercicio01SumarLista.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio02NumeroMayor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio03EncontrarProducto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio04ConcatenarPalabras.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio05ContarCaracter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio06NumeroMinimo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio07PromedioLista.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio08NumerosPositivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio09FiltrarSumarNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio10SeparaNumerosComas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio12AgruparPersonas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio13CrearMapa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio14ConcatenarGuionesBajos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EjercicioContarVocales.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicios11ContarPersonas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/com/jhonatan/ejerccios/reduccion&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ejercicio01SumarLista.executor": "Run",
+    "Application.Ejercicio02NumeroMayor.executor": "Run",
+    "Application.Ejercicio03EncontrarProducto.executor": "Run",
+    "Application.Ejercicio04ConcatenarPalabras.executor": "Run",
+    "Application.Ejercicio05ContarCaracter.executor": "Run",
+    "Application.Ejercicio06NumeroMinimo.executor": "Run",
+    "Application.Ejercicio07PromedioLista.executor": "Run",
+    "Application.Ejercicio08NumerosPositivos.executor": "Run",
+    "Application.Ejercicio09FiltrarSumarNumeros.executor": "Run",
+    "Application.Ejercicio10SeparaNumerosComas.executor": "Run",
+    "Application.Ejercicio12AgruparPersonas.executor": "Run",
+    "Application.Ejercicio13CrearMapa.executor": "Run",
+    "Application.Ejercicio14ConcatenarGuionesBajos.executor": "Run",
+    "Application.Ejercicio15CalcularFactorialNumero.executor": "Run",
+    "Application.EjercicioContarVocales.executor": "Run",
+    "Application.Ejercicios11ContarPersonas.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/com/jhonatan/ejerccios/reduccion",
+    "onboarding.tips.debug.path": "C:/Users/User/Music/PROGRAMACION FUNCIONAL/ejercicios-streams01/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Music\PROGRAMACION FUNCIONAL\ejercicios-streams01\src\com\jhonatan\ejerccios\reduccion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio15CalcularFactorialNumero">
-    <configuration name="Ejercicio12AgruparPersonas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio12AgruparPersonas" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio16ContarPalabrasLista">
     <configuration name="Ejercicio13CrearMapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio13CrearMapa" />
       <module name="ejercicios-streams01" />
@@ -115,6 +103,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio16ContarPalabrasLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio16ContarPalabrasLista" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjercicioContarVocales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.EjercicioContarVocales" />
       <module name="ejercicios-streams01" />
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio16ContarPalabrasLista" />
         <item itemvalue="Application.Ejercicio15CalcularFactorialNumero" />
         <item itemvalue="Application.EjercicioContarVocales" />
         <item itemvalue="Application.Ejercicio14ConcatenarGuionesBajos" />
         <item itemvalue="Application.Ejercicio13CrearMapa" />
-        <item itemvalue="Application.Ejercicio12AgruparPersonas" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735321575129</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial.">
+      <option name="closed" value="true" />
+      <created>1735321878316</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735321878316</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,6 +295,7 @@
     <MESSAGE value="Crear un mapa donde la clave sea el nombre de la persona y el valor sea su edad" />
     <MESSAGE value="Concatenar todas las palabras de una lista, separadas por guiones bajos" />
     <MESSAGE value="Contar la cantidad de vocales en todas las palabras" />
-    <option name="LAST_COMMIT_MESSAGE" value="Contar la cantidad de vocales en todas las palabras" />
+    <MESSAGE value="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial." />
+    <option name="LAST_COMMIT_MESSAGE" value="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial." />
   </component>
 </project>
