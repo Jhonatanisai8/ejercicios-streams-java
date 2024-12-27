@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Determinar si algún número en una lista es múltiplo de un valor dado.">
-      <change beforePath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio21CombinarListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jhonatan/ejerccios/reduccion/Ejercicio21CombinarListas.java" afterDir="false" />
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Combinar listas en una sola lista única.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "Application.Ejercicio18PalabraMasLarga.executor": "Run",
     "Application.Ejercicio19SumarCuadrados.executor": "Run",
     "Application.Ejercicio20NumeroMultiplo.executor": "Run",
+    "Application.Ejercicio21CombinarListas.executor": "Run",
     "Application.EjercicioContarVocales.executor": "Run",
     "Application.Ejercicios11ContarPersonas.executor": "Run",
     "Application.Main.executor": "Run",
@@ -70,20 +71,7 @@
       <recent name="C:\Users\User\Music\PROGRAMACION FUNCIONAL\ejercicios-streams01\src\com\jhonatan\ejerccios\reduccion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio21CombinarListas">
-    <configuration name="Ejercicio17ValorMasCercano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio17ValorMasCercano" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio22ContarPalabras">
     <configuration name="Ejercicio18PalabraMasLarga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio18PalabraMasLarga" />
       <module name="ejercicios-streams01" />
@@ -136,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio22ContarPalabras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio22ContarPalabras" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio22ContarPalabras" />
         <item itemvalue="Application.Ejercicio21CombinarListas" />
         <item itemvalue="Application.Ejercicio20NumeroMultiplo" />
         <item itemvalue="Application.Ejercicio19SumarCuadrados" />
         <item itemvalue="Application.Ejercicio18PalabraMasLarga" />
-        <item itemvalue="Application.Ejercicio17ValorMasCercano" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +332,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735325076145</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Combinar listas en una sola lista única.">
+      <option name="closed" value="true" />
+      <created>1735325489242</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1735325489242</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -356,6 +365,7 @@
     <MESSAGE value="Encontrar la palabra más larga en una lista." />
     <MESSAGE value="Sumar los cuadrados de los números en una lista." />
     <MESSAGE value="Determinar si algún número en una lista es múltiplo de un valor dado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Determinar si algún número en una lista es múltiplo de un valor dado." />
+    <MESSAGE value="Combinar listas en una sola lista única." />
+    <option name="LAST_COMMIT_MESSAGE" value="Combinar listas en una sola lista única." />
   </component>
 </project>
