@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Contar el número total de palabras en una lista de frases." />
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Contar el número total de palabras en una lista de frases.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,7 @@
     "Application.Ejercicio14ConcatenarGuionesBajos.executor": "Run",
     "Application.Ejercicio15CalcularFactorialNumero.executor": "Run",
     "Application.Ejercicio16ContarPalabrasLista.executor": "Run",
+    "Application.Ejercicio17ValorMasCercano.executor": "Run",
     "Application.EjercicioContarVocales.executor": "Run",
     "Application.Ejercicios11ContarPersonas.executor": "Run",
     "Application.Main.executor": "Run",
@@ -64,20 +67,7 @@
       <recent name="C:\Users\User\Music\PROGRAMACION FUNCIONAL\ejercicios-streams01\src\com\jhonatan\ejerccios\reduccion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio16ContarPalabrasLista">
-    <configuration name="Ejercicio13CrearMapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio13CrearMapa" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio17ValorMasCercano">
     <configuration name="Ejercicio14ConcatenarGuionesBajos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio14ConcatenarGuionesBajos" />
       <module name="ejercicios-streams01" />
@@ -117,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio17ValorMasCercano" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio17ValorMasCercano" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjercicioContarVocales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.EjercicioContarVocales" />
       <module name="ejercicios-streams01" />
@@ -132,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio17ValorMasCercano" />
         <item itemvalue="Application.Ejercicio16ContarPalabrasLista" />
         <item itemvalue="Application.Ejercicio15CalcularFactorialNumero" />
         <item itemvalue="Application.EjercicioContarVocales" />
         <item itemvalue="Application.Ejercicio14ConcatenarGuionesBajos" />
-        <item itemvalue="Application.Ejercicio13CrearMapa" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735322214080</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Contar el número total de palabras en una lista de frases.">
+      <option name="closed" value="true" />
+      <created>1735322244718</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735322244718</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
