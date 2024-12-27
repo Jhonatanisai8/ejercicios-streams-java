@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Encontrar la palabra más larga en una lista.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Sumar los cuadrados de los números en una lista." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,20 +67,7 @@
       <recent name="C:\Users\User\Music\PROGRAMACION FUNCIONAL\ejercicios-streams01\src\com\jhonatan\ejerccios\reduccion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio19SumarCuadrados">
-    <configuration name="Ejercicio15CalcularFactorialNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio15CalcularFactorialNumero" />
-      <module name="ejercicios-streams01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ejercicio20NumeroMultiplo">
     <configuration name="Ejercicio16ContarPalabrasLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio16ContarPalabrasLista" />
       <module name="ejercicios-streams01" />
@@ -135,13 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio20NumeroMultiplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio20NumeroMultiplo" />
+      <module name="ejercicios-streams01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio20NumeroMultiplo" />
         <item itemvalue="Application.Ejercicio19SumarCuadrados" />
         <item itemvalue="Application.Ejercicio18PalabraMasLarga" />
         <item itemvalue="Application.Ejercicio17ValorMasCercano" />
         <item itemvalue="Application.Ejercicio16ContarPalabrasLista" />
-        <item itemvalue="Application.Ejercicio15CalcularFactorialNumero" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735323251692</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Sumar los cuadrados de los números en una lista.">
+      <option name="closed" value="true" />
+      <created>1735323940366</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735323940366</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -337,6 +343,7 @@
     <MESSAGE value="Contar el número total de palabras en una lista de frases." />
     <MESSAGE value="Determinar el número más cercano a un valor objetivo." />
     <MESSAGE value="Encontrar la palabra más larga en una lista." />
-    <option name="LAST_COMMIT_MESSAGE" value="Encontrar la palabra más larga en una lista." />
+    <MESSAGE value="Sumar los cuadrados de los números en una lista." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sumar los cuadrados de los números en una lista." />
   </component>
 </project>
