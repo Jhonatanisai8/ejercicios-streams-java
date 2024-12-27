@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial." />
+    <list default="true" id="0f6cbbd1-d08f-46c1-92c4-f6b94f9edeed" name="Changes" comment="Contar el número total de palabras en una lista de frases." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +47,7 @@
     "Application.Ejercicio13CrearMapa.executor": "Run",
     "Application.Ejercicio14ConcatenarGuionesBajos.executor": "Run",
     "Application.Ejercicio15CalcularFactorialNumero.executor": "Run",
+    "Application.Ejercicio16ContarPalabrasLista.executor": "Run",
     "Application.EjercicioContarVocales.executor": "Run",
     "Application.Ejercicios11ContarPersonas.executor": "Run",
     "Application.Main.executor": "Run",
@@ -276,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735321878316</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Contar el número total de palabras en una lista de frases.">
+      <option name="closed" value="true" />
+      <created>1735322214079</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735322214080</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,6 +305,7 @@
     <MESSAGE value="Concatenar todas las palabras de una lista, separadas por guiones bajos" />
     <MESSAGE value="Contar la cantidad de vocales en todas las palabras" />
     <MESSAGE value="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial." />
-    <option name="LAST_COMMIT_MESSAGE" value="Calcular el valor factorial de un número utilizando reducción.&#10;Dada una lista de números consecutivos (por ejemplo, [1, 2, 3, 4, 5]),&#10; calcula su producto para obtener el factorial." />
+    <MESSAGE value="Contar el número total de palabras en una lista de frases." />
+    <option name="LAST_COMMIT_MESSAGE" value="Contar el número total de palabras en una lista de frases." />
   </component>
 </project>
