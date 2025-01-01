@@ -72,7 +72,7 @@
       <recent name="C:\Users\User\Music\PROGRAMACION FUNCIONAL\ejercicios-streams01\src\com\jhonatan\ejerccios\reduccion" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ejercicio03Multiplosde3">
+  <component name="RunManager" selected="Application.Ejercicio03MayorQue100">
     <configuration name="Ejercicio01EncontrarPrimerNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.operacionesTerminales.Ejercicio01EncontrarPrimerNumero" />
       <module name="ejercicios-streams01" />
@@ -99,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio03Multiplosde3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.operacionesTerminales.Ejercicio03Multiplosde3" />
+    <configuration name="Ejercicio03MayorQue100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.operacionesTerminales.Ejercicio03MayorQue100" />
       <module name="ejercicios-streams01" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio21CombinarListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.reduccion.Ejercicio21CombinarListas" />
+    <configuration name="Ejercicio03Multiplosde3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jhonatan.ejerccios.operacionesTerminales.Ejercicio03Multiplosde3" />
       <module name="ejercicios-streams01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jhonatan.ejerccios.reduccion.*" />
+          <option name="PATTERN" value="com.jhonatan.ejerccios.operacionesTerminales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio03MayorQue100" />
         <item itemvalue="Application.Ejercicio03Multiplosde3" />
         <item itemvalue="Application.Ejercicio02ComprobarPares" />
         <item itemvalue="Application.Ejercicio01EncontrarPrimerNumero" />
         <item itemvalue="Application.Ejercicio22ContarPalabras" />
-        <item itemvalue="Application.Ejercicio21CombinarListas" />
       </list>
     </recent_temporary>
   </component>
